@@ -1,9 +1,9 @@
 
-## Heading ##
-  > My Sneaker Tracker
+## My Sneaker Tracker MVP ##
 
-## Sub-Heading ##
-  > Sneaker enthusiasts can keep track of their shoe inventory and stay up to date with current market trends.
+![Screenshot](https://lh3.google.com/u/0/d/10-iGt4KgLyv7SzThnivOp-9qMTi9g2ru=w1279-h945-iv1)
+
+## Sneaker enthusiasts can keep track of their shoe inventory and stay up to date with current market trends. ##
 
 ## Summary ##
   > My Sneaker Tracker allows users to add, view, edit, and delete their collection of sneakers on a local database.  Data is pulled directly from the StockX website, with the current highest bid representing market value.  Enter the brand, model, color and size -- the rest of the fields will be automatically populated.
@@ -23,5 +23,5 @@
 >   heroku create
 >   git push heroku master
 
-## Closing and Call to Action ##
-  > Feel free to break/modify/replicate the code as you wish.  Don't hesitate to contact me with suggestions or feedback.
+## That's all! ##
+  > Feel free to break/modify/replicate the code as you wish.  Please don't hesitate to contact me with suggestions or feedback.
