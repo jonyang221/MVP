@@ -1,0 +1,38 @@
+{
+  "name": "MVP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --no-deprecation server/index.js",
+    "build": "webpack-cli -d --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors-anywhere": "^0.4.1",
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.11",
+    "node": "^13.1.0",
+    "nodemon": "^1.19.4",
+    "proxy-from-env": "^1.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "request": "^2.88.0",
+    "styled-components": "^4.4.1",
+    "webpack": "^4.41.2"
+  },
+  "homepage": "https://github.com/jonyang221/jonyang221",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "babel-loader": "^8.0.6",
+    "webpack-cli": "^3.3.10"
+  }
+}
