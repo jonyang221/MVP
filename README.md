@@ -1,7 +1,7 @@
 
 ## My Sneaker Tracker MVP ##
 
-![Screenshot](https://lh3.google.com/u/0/d/10-iGt4KgLyv7SzThnivOp-9qMTi9g2ru=w1279-h945-iv1)
+![Screenshot](https://i.imgur.com/Bwss4ZA.png)
 
 ## Sneaker enthusiasts can keep track of their shoe inventory and stay up to date with current market trends. ##
 
